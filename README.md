@@ -1,4 +1,3 @@
-# Kenta-portfolio
 # 🏢 ConnectField (社内・現場向けスレッド掲示板)
 
 [![GitHub Pages Deployment](https://img.shields.io/badge/status-active-success.svg)](https://your-username.github.io/repository-name/)
@@ -27,6 +26,15 @@
 * **Data Persistence**: LocalStorage (ブラウザ内保存)
 * **Deployment**: GitHub Pages
 * **Tools**: Visual Studio Code, Git / GitHub
+
+---
+
+## 📋 設計ドキュメント (Design Documents)
+
+本アプリケーションの設計図（ワイヤーフレームおよびER図）は、以下の `docs/` フォルダ内に格納しています。
+
+* 📁 **`docs/wireframe.png`**: 画面遷移およびレイアウト構成を表すワイヤーフレーム
+* 📁 **`docs/er-diagram.png`**: データベースのテーブル構造およびリレーションを表すER図
 
 ---
 
@@ -63,6 +71,9 @@ repository-name/
 ├── notifications.html  # 通知一覧画面
 ├── style.css           # 共通スタイルシート
 ├── script.js           # アプリケーションのロジック・DOM操作
+├── docs/               # 設計ドキュメント格納フォルダ
+│   ├── wireframe.png   # ワイヤーフレーム画像
+│   └── er-diagram.png  # ER図画像
 ├── assets/
-│   └── images/         # スクリーンショット・アイコン画像
+│   └── images/         # アプリ画面のスクリーンショット画像
 └── README.md
