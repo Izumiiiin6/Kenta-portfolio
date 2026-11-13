@@ -9,6 +9,7 @@
 https://connect-field-57utzhads-izumiiiin6.vercel.app/
 <br>
 
+！[アプリ画像]（images/screenshot.png）
 ## 🖼️ スクリーンショット
 | スレッド一覧画面 | 投稿作成画面 |
 | :---: | :---: |
