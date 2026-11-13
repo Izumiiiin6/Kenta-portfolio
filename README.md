@@ -9,7 +9,7 @@
 https://connect-field-57utzhads-izumiiiin6.vercel.app/
 <br>
 
-![アプリ画像]（https://github.com/Izumiiiin6/Kenta-portfolio/blob/abd40bf9ac73ba9a4e0fd68824c5a69596dedc74/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-11-14%203.47.49.png?raw=true）
+！[アプリ画像]（https://github.com/Izumiiiin6/Kenta-portfolio/blob/abd40bf9ac73ba9a4e0fd68824c5a69596dedc74/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-11-14%203.47.49.png?raw=true）
 ## 🖼️ スクリーンショット
 | スレッド一覧画面 | 投稿作成画面 |
 | :---: | :---: |
